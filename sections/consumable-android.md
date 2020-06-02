@@ -33,7 +33,7 @@ The `android-release.sh` script has a shortcut that will build, install and star
 ./android-release.sh run
 ```
 
-You can now make purchase with on of your test accounts.
+You can now make purchase with one of your test accounts.
 
 {% hint style="warning" %}
 A test account can purchase an item in your product list only if the item is published.
